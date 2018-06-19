@@ -1,0 +1,29 @@
+/*
+Theme Name:zBoom Music
+Theme URI:http://rashadalraji.com
+Author: Rashad Al-raji
+Author URI:http:// rashadalraji.com
+Description: A sample wordpress site built with html 5.
+Version: 1.0
+Tags: song, music, simple wordpress
+*/
+
+.comment-body .comment-author img{
+    width: 30px;
+    height: 30px;
+}
+
+#logo img{
+    width:150px;
+    height:80px;
+    
+}
+
+#title{
+    text-align: center;
+   padding-top: 50px;
+    font-weight: 900;
+    font-family: cursive;
+    font-size: 36px;
+    font-style: oblique;
+}
